@@ -1,0 +1,6 @@
+.mainFrameRoot{
+    z-index: -1;
+    width: 100vw;
+    position: fixed;
+
+}
