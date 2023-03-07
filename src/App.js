@@ -7,7 +7,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>The lazy fox jumped over the dog - Nihar sawant test</h1>
+      <h1>The lazy fox jumped over the dog - Nihar sawant test </h1>
       <Navbar/>
       <Mainframe/>
       <Footer/>
